@@ -23,7 +23,7 @@ class Ventana:
 
         raiz = tk.Tk()
         raiz.title("Rick & Morty")
-        raiz.iconbitmap("API-RickYMorty/resources/icono.ico")
+        raiz.iconbitmap("resources/icono.ico")
         raiz.config(bg="#3c3e44")
         n = tk.IntVar()
 
